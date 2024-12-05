@@ -7,7 +7,7 @@
 - [Maven](https://maven.apache.org/) Maven will be used for the application packaging and building including running unit test cases
 - [SonarQube](https://docs.sonarqube.org/) SonarQube Catches bugs and vulnerabilities in your app, with thousands of automated Static Code Analysis rules.
 - [Nexus](https://www.sonatype.com/) Nexus Manage Binaries and build artifacts across your software supply chain
-- [EC2](https://aws.amazon.com/ec2/) EC2 allows users to rent virtual computers (EC2) to run their own workloads and applications.
+- [EC2](https://aws.amazon.com/ec2/) EC2 allows users to rent virtual computers (EC2) to run their own workloads and applications.e.
 
 ## Configure Environments
 1) Create a GitHub Repository
